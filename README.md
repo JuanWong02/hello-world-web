@@ -1,2 +1,4 @@
 # hello-world-web
-Hello World Web
+
+Hi, welcome to this example of a web-based Hello World.
+
